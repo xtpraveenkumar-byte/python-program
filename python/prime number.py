@@ -8,6 +8,6 @@ def chekprime(check):
     else:
         print("not the prime number")
 
-chekprime(12)
+chekprime(13)
 
 
